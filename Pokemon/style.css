@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+
+
+
+
+body, html {
+    background-color: darkgrey;
+    font-family: 'Roboto Mono', monospace;
+    height: 100%;
+    width: 100%;
+}
+
+.navbar {
+    letter-spacing: 1px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+
+
+.jumbotron {
+    background-color: #ffcb05;
+    margin: 30px 0;
+}
+
+.jumbotron img {
+    height: 200px;
+    width: 200px;
+}
+
+.jumbotron .lead {
+    font-size: 1.5rem;
+}
+
+
+form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#submitButton {
+    margin: 40px 0;
+}
+
+hr {
+    width: 66%;
+}
+
+
+#pokemonBall {
+    margin: 4
+    0px;
+    height: 400px;
+    width: 400px;
+}
+
+#resultsIn {
+    margin: 40px;
+}
+
+#headerH2 {
+    font-size: 2.4rem;
+}
+
+#headJumbo {
+    padding: -1rem -1rem;
+}
+
